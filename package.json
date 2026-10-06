@@ -1,0 +1,16 @@
+{
+  "name": "dx-metrics-dashboard",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
